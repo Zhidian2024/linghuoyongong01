@@ -10,18 +10,19 @@ Java+Mysql
 
 #### 软件界面展示
 
-![01](https://github.com/user-attachments/assets/6f72d654-42df-4355-b11c-e1b01eebb6e4)
-![02](https://github.com/user-attachments/assets/4c61cc3c-41f3-457b-8419-86434ca509d6)
-![03](https://github.com/user-attachments/assets/cbaa0ec3-90b8-4a04-af88-cfdad246eba1)
-![04](https://github.com/user-attachments/assets/19ede74a-2932-4cf2-842d-f0c9f1fedde4)
-![05](https://github.com/user-attachments/assets/35ea579e-4216-4b7c-af14-d7e9ebf87865)
-![06](https://github.com/user-attachments/assets/030b9f99-a16b-4c05-bbbd-351857c16413)
-![07](https://github.com/user-attachments/assets/f6a02fb0-15ed-4f88-91c0-7d006d4e260b)
-![08](https://github.com/user-attachments/assets/ce5a24a9-1867-464a-8aa1-ff558936c590)
-![09](https://github.com/user-attachments/assets/450281b7-e278-480c-ac8c-58f4a5affea3)
-![10](https://github.com/user-attachments/assets/3d53489e-5528-4670-a94b-81cc339b5f8a)
-![11](https://github.com/user-attachments/assets/1f9ff039-6272-44ba-80ad-d110c784bdf2)
-![12](https://github.com/user-attachments/assets/a2dc58b8-a3b4-4819-889a-b33c8c887349)
+<img width="384" height="825" alt="111" src="https://github.com/user-attachments/assets/b297b352-669f-4b40-859b-3a253b5fcf87" />
+<img width="384" height="830" alt="112" src="https://github.com/user-attachments/assets/1c512676-e0c3-4e57-990d-52fa96dba759" />
+<img width="1910" height="936" alt="2" src="https://github.com/user-attachments/assets/f537fae6-0b8a-4ff6-ba2a-3170d8e52331" />
+<img width="1917" height="937" alt="1" src="https://github.com/user-attachments/assets/8f14ef9a-057f-4b50-b08c-a0e5abddee45" />
+<img width="1909" height="927" alt="3" src="https://github.com/user-attachments/assets/6082b369-0836-4315-8816-92516cc25917" />
+<img width="1901" height="940" alt="10" src="https://github.com/user-attachments/assets/daac1d19-0952-4573-a70d-dee030641fd7" />
+<img width="1901" height="943" alt="9" src="https://github.com/user-attachments/assets/a948f181-50fb-4945-a228-143e32420c21" />
+<img width="1893" height="937" alt="8" src="https://github.com/user-attachments/assets/0dd31426-6d4a-4aed-9772-9233ee8bc8e5" />
+<img width="1900" height="842" alt="7" src="https://github.com/user-attachments/assets/e85e09b7-25bc-4d80-9d9a-dfa39090c381" />
+<img width="1911" height="947" alt="6" src="https://github.com/user-attachments/assets/87142b42-4a69-4df5-ba32-787233920ff9" />
+<img width="1903" height="933" alt="5" src="https://github.com/user-attachments/assets/181820a1-022e-4900-81e7-9854187295b5" />
+<img width="1900" height="946" alt="4" src="https://github.com/user-attachments/assets/678fedda-b839-4a78-a950-e0a42cdc0f38" />
+
 
 #### 有兴趣，加V，备注：来源和项目名称
 
